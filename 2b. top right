@@ -1,0 +1,5 @@
+
+function draw() {
+
+line(random(width), random(height), 350,(0));
+}
